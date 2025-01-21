@@ -1,0 +1,4 @@
+2025-01-21 20:01:32,845 - db_helper - INFO - fetch_expense_summary called with start: 2024-09-01 end: 2024-09-05
+2025-01-21 20:01:33,179 - db_helper - INFO - insert_expense called with date: 2025-01-01, amount: 2627, category: Food, notes: Party
+2025-01-21 20:01:53,493 - db_helper - INFO - fetch_expense_summary called with start: 2024-09-01 end: 2024-09-05
+2025-01-21 20:01:53,568 - db_helper - INFO - insert_expense called with date: 2025-01-01, amount: 2627, category: Food, notes: hbbhj
