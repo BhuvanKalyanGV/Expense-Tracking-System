@@ -1,0 +1,65 @@
+2025-01-21 20:28:35,564 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-01
+2025-01-22 14:40:37,240 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-01-22 14:41:07,045 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-22 14:44:39,564 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-22 14:44:40,921 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-22 14:44:41,178 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-22 14:44:41,408 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-22 14:44:44,454 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:14:43,485 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:14:58,541 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:15:03,537 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-01-23 19:15:57,751 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-01-23 19:15:59,912 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:16:13,332 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:16:15,459 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:16:18,948 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:16:21,164 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-01-23 19:16:23,414 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:17:07,871 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:17:10,063 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:17:19,789 - db_helper - INFO - fetch_expenses_for_date called with 2024-10-01
+2025-01-23 19:17:21,955 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:17:29,987 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:17:32,139 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:17:32,403 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:17:34,580 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:17:43,683 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-01-23 19:17:45,907 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-01-23 19:17:48,022 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:18:05,339 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-01-23 19:18:07,407 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:19:16,753 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:19:18,873 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:19:43,196 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:19:45,312 - db_helper - INFO - delete_expenses_for_date called with 2025-01-23
+2025-01-23 19:19:45,353 - db_helper - INFO - insert_expense called with date: 2025-01-23, amount: 2757.0, category: Food, notes: 
+2025-01-23 19:19:45,374 - db_helper - INFO - insert_expense called with date: 2025-01-23, amount: 1500.0, category: Shopping, notes: 
+2025-01-23 19:19:45,400 - db_helper - INFO - insert_expense called with date: 2025-01-23, amount: 1000.0, category: Rent, notes: 
+2025-01-23 19:19:47,308 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:19:49,407 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:19:50,249 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:19:52,354 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:19:57,210 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:19:59,341 - db_helper - INFO - delete_expenses_for_date called with 2025-01-25
+2025-01-23 19:19:59,355 - db_helper - INFO - insert_expense called with date: 2025-01-25, amount: 10000.0, category: Shopping, notes: 
+2025-01-23 19:19:59,369 - db_helper - INFO - insert_expense called with date: 2025-01-25, amount: 1500.0, category: Shopping, notes: 
+2025-01-23 19:19:59,382 - db_helper - INFO - insert_expense called with date: 2025-01-25, amount: 1000.0, category: Rent, notes: 
+2025-01-23 19:20:01,461 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:20:11,276 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:20:13,404 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:20:22,788 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:20:24,094 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-25
+2025-01-23 19:20:26,225 - db_helper - INFO - fetch_expense_summary called with start: 2025-01-01 end: 2025-01-31
+2025-01-23 19:20:28,380 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:21:28,967 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:21:31,107 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:21:38,897 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:21:41,069 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:21:48,741 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-01-23 19:21:50,915 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:21:58,915 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:22:01,021 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-23 19:22:39,869 - db_helper - INFO - fetch_expenses_for_date called with 2025-01-23
+2025-01-23 19:22:42,117 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-01-23 19:22:44,253 - db_helper - INFO - fetch_expense_summary_by_months
